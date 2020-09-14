@@ -1,0 +1,12 @@
+{
+  "name": "poc-react-native-pwa",
+  "displayName": "poc-react-native-pwa",
+  "expo": {
+    "name": "poc-react-native-pwa",
+    "slug": "poc-react-native-pwa",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
